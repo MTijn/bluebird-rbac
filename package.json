@@ -1,0 +1,20 @@
+{
+  "name": "mongoose-rbac2",
+  "version": "0.0.1",
+  "description": "Mongoose RBAC implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/MTijn/mongoose-rbac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/MTijn/mongoose-rbac#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "mongoose": "^4.5.8"
+  }
+}
