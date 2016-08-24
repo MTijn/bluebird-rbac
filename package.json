@@ -14,11 +14,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/MTijn/mongoose-rbac.git"
+    "url": "git@github.com:MTijn/bluebird-rbac.git"
   },
   "author": "Martijn Klene",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/MTijn/mongoose-rbac#readme",
+  "homepage": "https://github.com/MTijn/bluebird-rbac",
   "dependencies": {
     "bluebird": "^3.4.1",
     "mongoose": "^4.5.8"
