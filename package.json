@@ -1,16 +1,22 @@
 {
   "name": "bluebird-rbac",
   "version": "0.0.1",
-  "description": "Mongoose RBAC implementation",
+  "description": "Mongoose Bluebird RBAC implementation",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "node",
+    "mongoose",
+    "bluebird",
+    "rbac"
+  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@bitbucket.org/MTijn/mongoose-rbac.git"
   },
-  "author": "",
+  "author": "Martijn Klene",
   "license": "ISC",
   "homepage": "https://bitbucket.org/MTijn/mongoose-rbac#readme",
   "dependencies": {
