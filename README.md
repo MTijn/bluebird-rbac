@@ -52,7 +52,7 @@ Will return all the permissions the user has.
 You will be able to check for permissions on the routes from express.
 
 ```js
-var rbac = require('mongoose-rbac2');
+var rbac = require('bluebird-rbac');
 
 router.get('/', rbac.userCanAccess({action: 'view', resource: 'user', redirectTo: '/'}), function(req, res, next) {
     // Do stuff in my route.
