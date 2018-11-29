@@ -3,6 +3,9 @@
 Role based access control that uses Mongoose and Bluebird promises. I have created the library since I was not able to
 work with the available libraries on GitHub.
 
+## Abandoned
+This package has been abandoned, if you're using this and want to continue using it, you can fork it or ask me to get ownership of it.
+
 ## Requirements
 
 - Mongoose
